@@ -1,0 +1,7 @@
+In Python you can store values in variables without declaring their type.
+In Python you can group related values in lists and change them in place.
+In Python you can use if statements to let your program make decisions.
+In Python you can repeat work with for loops and while loops.
+In Python you can write functions to reuse code and keep it organized.
+In Python you can build classes to model real-world things and their behaviors.
+In Python you can import modules from the standard library to get more tools.
