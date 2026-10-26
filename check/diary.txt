@@ -1,0 +1,5 @@
+Today I fixed a bug in my C code.
+the bug was about malloc
+
+   I will not forget free() again.
+Free and malloc must pair.
