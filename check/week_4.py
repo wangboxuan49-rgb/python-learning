@@ -26,7 +26,7 @@ def analyze(contents):
         word = word.lower()
         word = word.replace(',','').replace('.','').replace('(','').replace(')','')
 
-        for i in range(len(names)):
+        for i in range(len(names)):     #因为要修改 nums。直接把列表交给 for 遍历,拿到的只是值的副本,没有位置信息
             if word == names[i]:
                 nums[i] += 1
                 found = True
